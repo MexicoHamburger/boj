@@ -12,9 +12,10 @@ int main()
     
     while (target != 0)
     {
-        
+
     }
 }
 
 9_10 to _2
 9/8 = 1 ... 1 (나머지가중요)
+// where did my grass go?
